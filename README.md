@@ -1,4 +1,4 @@
-# 💫 Hi, Bagus Ananta Hidayatullah :
+# 💫 Hi,Im Bagus Ananta Hidayatullah :
 🌱 I’m currently learning C Programming Language, Advance Internet of Things and Automation<br>📝 I regularly write articles on https://medium.com/@bagusananta278<br>💬 Ask me about IoT, Automation, Software Engineer, Android Developer, Backend Developer<br>📫 How to reach me bagusananta278@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1nDaUIcHpt6CW3mgtZHNZrfBtIxT_Ob79/view?usp=drive_link<br>⚡ Fun fact I've cookie for share yummm
 
 
